@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color status_bar
+drawable ic_app_logo
+string app_name
+style Theme.PdfToImageConverter
+xml file_paths

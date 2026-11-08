@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.pdfconverter.app-debug-4:/xml_file_paths.xml.flat",
+        "source": "com.example.pdfconverter.app-main-6:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.pdfconverter.app-debug-4:/drawable_ic_app_logo.xml.flat",
+        "source": "com.example.pdfconverter.app-main-6:/drawable/ic_app_logo.xml"
+    }
+]

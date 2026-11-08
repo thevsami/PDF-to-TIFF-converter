@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="status_bar">#07111F</color>
+    <string name="app_name">PDF Convert</string>
+    <style name="Theme.PdfToImageConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="23">false</item>
+        <item name="android:windowLayoutInDisplayCutoutMode" ns1:targetApi="27">shortEdges</item>
+    </style>
+</resources>
